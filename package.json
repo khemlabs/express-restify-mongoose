@@ -17,7 +17,7 @@
     "weedout": "~1.0.1"
   },
   "peerDependencies": {
-    "mongoose": "^4.0.0"
+    "mongoose": "^5.2.0"
   },
   "description": "Easily create a flexible REST interface for mongoose models",
   "devDependencies": {
@@ -38,7 +38,7 @@
     "sinon": "^1.17.0"
   },
   "engines": {
-    "node": ">=6"
+    "node": ">=10"
   },
   "homepage": "http://florianholzapfel.github.io/express-restify-mongoose/",
   "keywords": [
@@ -81,5 +81,5 @@
     "README.md",
     "src/"
   ],
-  "version": "5.0.0"
+  "version": "5.0.0-mongoose"
 }
